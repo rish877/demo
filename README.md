@@ -1,4 +1,4 @@
 # demo
 learning 
 <br/>
-author ->Rishabh
+author ->Rishabh shrivastav
